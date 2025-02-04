@@ -48,9 +48,10 @@ if (!isset($user_id)) {
 
          <div class="content">
             <h3>why choose us?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet voluptatibus aut hic molestias,
-               reiciendis natus fuga, cumque excepturi veniam ratione iure. Excepturi fugiat placeat iusto facere id
-               officia assumenda temporibus?</p>
+            <p>Welcome to Ecomm, your one-stop destination for all things tech! We are a forward-thinking e-commerce
+               platform dedicated to providing the latest and greatest in technology products at unbeatable prices. From
+               cutting-edge gadgets to powerful computing solutions, we strive to bring you the best in innovation,
+               quality, and performance.</p>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia
                corporis ratione saepe sed adipisci?</p>
             <a href="contact.php" class="btn">contact us</a>

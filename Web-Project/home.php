@@ -54,8 +54,8 @@ if (isset($_POST['add_to_cart'])) {
    <section class="home">
 
       <div class="content">
-         <h3>Hand Picked Book to your door.</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.
+         <h3>Destination To Gadgets</h3>
+         <p>Explore the Future of Tech – Shop the Latest Gadgets, Devices, and Innovations at Ecomm!
          </p>
          <a href="about.php" class="white-btn">discover more</a>
       </div>
@@ -111,8 +111,10 @@ if (isset($_POST['add_to_cart'])) {
 
          <div class="content">
             <h3>about us</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia
-               corporis ratione saepe sed adipisci?</p>
+            <p>Welcome to Ecomm, your one-stop destination for all things tech! We are a forward-thinking e-commerce
+               platform dedicated to providing the latest and greatest in technology products at unbeatable prices. From
+               cutting-edge gadgets to powerful computing solutions, we strive to bring you the best in innovation,
+               quality, and performance.</p>
             <a href="about.php" class="btn">read more</a>
          </div>
 
