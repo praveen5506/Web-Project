@@ -126,8 +126,8 @@ if (isset($_POST['add_to_cart'])) {
 
       <div class="content">
          <h3>have any questions?</h3>
-         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet
-            ullam voluptatibus?</p>
+         <p>We're here to help! Whether you're curious about a product, need assistance with an order, or want more
+            details about our services, feel free to reach out.</p>
          <a href="contact.php" class="white-btn">contact us</a>
       </div>
 
